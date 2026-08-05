@@ -1,0 +1,2 @@
+DATABASE_URL=postgresql://reconocimientofacial_user:841fWkxUo9pqjaFB5hA5KMeVPQnyvQTL@dpg-d9pnt56gekts739si430-a/reconocimientofacial
+CORS_ORIGINS=http://localhost:4200
